@@ -1,0 +1,14 @@
+{
+  "name": "OOPS",
+  "version": "1.0.0",
+  "description": "Sure, here's a simple project idea for a fresher to practice OOP concepts in TypeScript, focusing on inheritance:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Noman",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  }
+}
